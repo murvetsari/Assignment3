@@ -1,0 +1,166 @@
+package assignment_3;
+
+public class Question_1 {
+
+	public static void main(String[] args) {
+		
+		
+		int gallon;
+		double liter;
+		
+		gallon=15;
+		
+		liter=gallon*3.78;
+		
+		System.out.println( gallon+" gallon is " + liter + " liter ");
+		
+	
+		
+	}
+
+}
+package assignment_3;
+
+public class Question_2 {
+
+	public static void main(String[] args) {
+		
+		String name = "Murvet";
+		int age= 20;
+		
+		
+		System.out.println("Hello "+ name + "!" + "based on your input, your age is" + " your age is " + age + " :)");
+	
+  
+  
+  
+		package assignment_3;
+
+public class Question_3 {
+
+	public static void main(String[] args) {
+		
+	    double width, height, area;
+		
+		width=4.5;
+		
+		height= 7.9;
+		
+		area= width*height;
+				
+				System.out.println("rectange area is" + " = " + area);
+		
+		
+						
+				
+	package assignment_3;
+
+public class Question_4 {
+
+	public static void main(String[] args) {
+		
+		int num1 =10;
+		
+		int num2 =20;
+		
+		
+		System.out.println("n1= "+ num1);
+		System.out.println("n2= "+ num2);
+				
+				
+		
+		int num3=num1;
+		int num4=num2;
+		
+		
+		System.out.println("n1= "+ num4);
+		System.out.println("n2= "+ num3);
+
+	}
+
+}
+package assignment_3;
+
+public class Question_5 {
+
+	public static void main(String[] args) {
+		
+	    int t1= 3695, inputSeconds, minutes, hours, seconds= t1;
+	    
+	    
+         minutes = seconds/60;
+	     hours = minutes/60;
+	     
+	     
+	     seconds = seconds % 60;
+	     minutes = minutes % 60;
+	    
+	    		
+	    		
+				
+System.out.println("inputSecont is " + t1);
+
+System.out.println("inputSecont is " + " hours" + " hours " + minutes + " minutes " + seconds + " seconds" );							
+	
+
+	}
+
+}package assignment_3;
+
+public class Question_6 {
+
+	public static void main(String[] args) {
+		
+		int grams=500; 
+		int LethalOverdose= 10*1000/grams;
+		
+		
+		
+		
+		
+		System.out.println("Number of milligrams in drink: "+ grams);
+		
+		System.out.println("It would take about drink for a lethal overdose: " +  LethalOverdose + " drink");
+		
+		
+	}
+
+}
+package assignment_3;
+
+public class Question_7 {
+
+	public static void main(String[] args) {
+		
+		int price= 95, quarters,dimes,nickles;
+		
+		int change = 100;
+		
+		
+		quarters=change/25;
+		dimes=change%20/10;
+		nickles=change%25%10/5;
+		
+		System.out.println("change to be " + quarters +" quarters" + "," + dimes +" dimes"+","+ nickles + " nickles" );
+		
+		
+		
+		
+		
+				
+			
+
+
+
+
+
+	}
+
+}
+
+		
+		
+
+	}
+
+}
